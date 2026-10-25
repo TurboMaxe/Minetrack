@@ -1,12 +1,7 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Pro Studios",
+		"ip": "play.prostudios.2bd.net",
 		"type": "PC"
 	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
-	}
 ]
